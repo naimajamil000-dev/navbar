@@ -1,0 +1,10 @@
+:root{
+    --primary : #5e3b5e;
+}
+
+
+.btn-purple{
+border: 1px solid var(--primary);
+color: var(--primary);
+
+}
