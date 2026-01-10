@@ -8,3 +8,13 @@ border: 1px solid var(--primary);
 color: var(--primary);
 
 }
+.hero{
+    background-color: #F5FCFF;
+}
+.color{
+    background-color: #5E3BEE;
+}
+.color:hover{
+background-color: #5E3BEE;
+border: none;
+}
