@@ -8,3 +8,17 @@ border: 1px solid var(--primary);
 color: var(--primary);
 
 }
+/* experties */
+.heading{
+    padding: 30px;
+}
+.gallary{
+    background-color: #f5fcff !important;
+    outline: 20px solid white;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px;
+}
+.head{
+    padding: 30px;
+}
