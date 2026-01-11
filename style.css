@@ -8,6 +8,7 @@ border: 1px solid var(--primary);
 color: var(--primary);
 
 }
+<<<<<<< HEAD
 /* experties */
 .heading{
     padding: 30px;
@@ -21,4 +22,15 @@ color: var(--primary);
 }
 .head{
     padding: 30px;
+=======
+.hero{
+    background-color: #F5FCFF;
+}
+.color{
+    background-color: #5E3BEE;
+}
+.color:hover{
+background-color: #5E3BEE;
+border: none;
+>>>>>>> 5107d3f3c5b303c78f3e8103d6c73017d575ff7d
 }
