@@ -8,7 +8,6 @@ border: 1px solid var(--primary);
 color: var(--primary);
 
 }
-<<<<<<< HEAD
 /* experties */
 .heading{
     padding: 30px;
@@ -22,15 +21,47 @@ color: var(--primary);
 }
 .head{
     padding: 30px;
-=======
-.hero{
-    background-color: #F5FCFF;
+}
+.h1{
+    padding: 20px;
+    text-align: center;
+}
+/* form */
+.new {
+    border: 1.5px solid #5E3BEE;
+
+}
+
+.form-control.new:focus,
+.form-select.new:focus,
+textarea.form-control.new:focus {
+    background-color: transparent;
+    border: 1.5px solid #5f3beea6;
+    outline: 0;
+    box-shadow: 1px 1px 10px #5f3beea6;
+}
+
+/* footer */
+.footer-border {
+    border-top: 1px solid black;
+}
+
+.border-width {
+    width: 93%;
 }
 .color{
     background-color: #5E3BEE;
+    color :white
+;
 }
-.color:hover{
-background-color: #5E3BEE;
-border: none;
->>>>>>> 5107d3f3c5b303c78f3e8103d6c73017d575ff7d
+
+/* media quaires */
+@media screen and (min-width:992px) {
+    .project-width {
+        width: 30%;
+    }
+
+    .custom {
+        width: 31%;
+    }
 }
